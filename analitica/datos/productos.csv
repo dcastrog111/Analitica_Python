@@ -1,0 +1,501 @@
+codigo_producto,nombre_producto,categoria,marca,precio_unitario,stock_disponible
+P001,Producto 1,Accesorios,MarcaA,138.25,57
+P002,Producto 2,Zapatos,MarcaC,51.0,99
+P003,Producto 3,Pantalones,MarcaA,24.97,40
+P004,Producto 4,Camisas,MarcaB,79.31,44
+P005,Producto 5,Zapatos,MarcaE,69.71,19
+P006,Producto 6,Ropa Deportiva,MarcaD,30.11,54
+P007,Producto 7,Camisas,MarcaD,112.28,51
+P008,Producto 8,Camisas,MarcaE,166.92,23
+P009,Producto 9,Ropa Deportiva,MarcaD,58.0,75
+P010,Producto 10,Accesorios,MarcaA,128.38,39
+P011,Producto 11,Ropa Deportiva,MarcaD,127.76,82
+P012,Producto 12,Pantalones,MarcaE,161.92,71
+P013,Producto 13,Pantalones,MarcaD,120.79,42
+P014,Producto 14,Camisas,MarcaB,67.73,21
+P015,Producto 15,Zapatos,MarcaD,134.64,70
+P016,Producto 16,Ropa Deportiva,MarcaB,67.47,51
+P017,Producto 17,Pantalones,MarcaC,76.14,83
+P018,Producto 18,Zapatos,MarcaA,70.43,34
+P019,Producto 19,Accesorios,MarcaE,96.35,31
+P020,Producto 20,Zapatos,MarcaE,143.24,80
+P021,Producto 21,Camisas,MarcaC,45.11,15
+P022,Producto 22,Zapatos,MarcaE,125.82,38
+P023,Producto 23,Pantalones,MarcaB,44.09,25
+P024,Producto 24,Ropa Deportiva,MarcaE,126.77,56
+P025,Producto 25,Camisas,MarcaB,72.43,25
+P026,Producto 26,Accesorios,MarcaA,129.95,89
+P027,Producto 27,Camisas,MarcaE,165.51,27
+P028,Producto 28,Zapatos,MarcaA,122.31,95
+P029,Producto 29,Ropa Deportiva,MarcaD,79.82,29
+P030,Producto 30,Pantalones,MarcaD,75.73,45
+P031,Producto 31,Camisas,MarcaD,101.63,81
+P032,Producto 32,Zapatos,MarcaE,23.68,48
+P033,Producto 33,Accesorios,MarcaB,52.08,29
+P034,Producto 34,Camisas,MarcaC,107.12,87
+P035,Producto 35,Camisas,MarcaA,115.1,58
+P036,Producto 36,Pantalones,MarcaB,164.02,79
+P037,Producto 37,Accesorios,MarcaA,35.85,11
+P038,Producto 38,Ropa Deportiva,MarcaB,64.95,18
+P039,Producto 39,Zapatos,MarcaC,65.05,49
+P040,Producto 40,Zapatos,MarcaC,68.88,31
+P041,Producto 41,Zapatos,MarcaA,66.14,21
+P042,Producto 42,Ropa Deportiva,MarcaC,154.02,57
+P043,Producto 43,Ropa Deportiva,MarcaD,77.01,48
+P044,Producto 44,Zapatos,MarcaE,177.09,43
+P045,Producto 45,Camisas,MarcaE,30.28,45
+P046,Producto 46,Pantalones,MarcaA,152.53,58
+P047,Producto 47,Zapatos,MarcaE,126.9,39
+P048,Producto 48,Ropa Deportiva,MarcaC,180.38,87
+P049,Producto 49,Pantalones,MarcaD,168.63,34
+P050,Producto 50,Zapatos,MarcaA,182.04,59
+P051,Producto 51,Accesorios,MarcaC,56.77,84
+P052,Producto 52,Zapatos,MarcaA,192.32,18
+P053,Producto 53,Zapatos,MarcaD,171.31,16
+P054,Producto 54,Accesorios,MarcaD,31.47,84
+P055,Producto 55,Ropa Deportiva,MarcaD,186.48,88
+P056,Producto 56,Zapatos,MarcaE,109.35,25
+P057,Producto 57,Zapatos,MarcaD,74.76,95
+P058,Producto 58,Zapatos,MarcaA,149.84,50
+P059,Producto 59,Ropa Deportiva,MarcaC,182.29,52
+P060,Producto 60,Zapatos,MarcaC,27.15,20
+P061,Producto 61,Accesorios,MarcaD,139.18,96
+P062,Producto 62,Zapatos,MarcaB,103.96,46
+P063,Producto 63,Pantalones,MarcaC,104.42,35
+P064,Producto 64,Accesorios,MarcaB,77.44,52
+P065,Producto 65,Zapatos,MarcaD,150.76,16
+P066,Producto 66,Camisas,MarcaE,84.02,100
+P067,Producto 67,Zapatos,MarcaC,83.63,20
+P068,Producto 68,Ropa Deportiva,MarcaC,196.38,10
+P069,Producto 69,Camisas,MarcaC,31.56,69
+P070,Producto 70,Accesorios,MarcaC,56.69,14
+P071,Producto 71,Zapatos,MarcaC,149.03,56
+P072,Producto 72,Camisas,MarcaE,105.75,77
+P073,Producto 73,Camisas,MarcaE,163.1,18
+P074,Producto 74,Zapatos,MarcaB,41.48,15
+P075,Producto 75,Pantalones,MarcaC,97.64,81
+P076,Producto 76,Camisas,MarcaD,144.36,52
+P077,Producto 77,Accesorios,MarcaB,54.58,85
+P078,Producto 78,Zapatos,MarcaE,111.76,19
+P079,Producto 79,Ropa Deportiva,MarcaC,99.82,33
+P080,Producto 80,Pantalones,MarcaB,87.46,96
+P081,Producto 81,Ropa Deportiva,MarcaD,121.51,46
+P082,Producto 82,Ropa Deportiva,MarcaB,156.16,76
+P083,Producto 83,Ropa Deportiva,MarcaE,93.28,75
+P084,Producto 84,Camisas,MarcaE,147.55,16
+P085,Producto 85,Pantalones,MarcaE,133.78,25
+P086,Producto 86,Zapatos,MarcaB,145.93,47
+P087,Producto 87,Pantalones,MarcaB,182.73,54
+P088,Producto 88,Accesorios,MarcaA,191.58,27
+P089,Producto 89,Accesorios,MarcaE,137.14,54
+P090,Producto 90,Zapatos,MarcaC,196.04,99
+P091,Producto 91,Camisas,MarcaE,164.13,73
+P092,Producto 92,Zapatos,MarcaD,74.32,68
+P093,Producto 93,Accesorios,MarcaA,111.78,16
+P094,Producto 94,Ropa Deportiva,MarcaA,120.59,60
+P095,Producto 95,Pantalones,MarcaE,52.36,21
+P096,Producto 96,Accesorios,MarcaC,193.3,67
+P097,Producto 97,Zapatos,MarcaC,84.25,88
+P098,Producto 98,Zapatos,MarcaD,78.47,64
+P099,Producto 99,Accesorios,MarcaC,58.18,41
+P100,Producto 100,Ropa Deportiva,MarcaC,184.13,46
+P101,Producto 101,Zapatos,MarcaA,21.48,65
+P102,Producto 102,Accesorios,MarcaB,24.84,36
+P103,Producto 103,Camisas,MarcaB,187.61,78
+P104,Producto 104,Camisas,MarcaC,113.68,57
+P105,Producto 105,Camisas,MarcaA,110.04,56
+P106,Producto 106,Pantalones,MarcaB,158.64,70
+P107,Producto 107,Zapatos,MarcaE,94.45,99
+P108,Producto 108,Accesorios,MarcaE,137.87,74
+P109,Producto 109,Camisas,MarcaD,103.25,91
+P110,Producto 110,Zapatos,MarcaC,137.09,68
+P111,Producto 111,Camisas,MarcaD,189.49,74
+P112,Producto 112,Pantalones,MarcaD,114.72,29
+P113,Producto 113,Camisas,MarcaD,180.88,97
+P114,Producto 114,Ropa Deportiva,MarcaE,25.08,36
+P115,Producto 115,Accesorios,MarcaD,180.76,24
+P116,Producto 116,Pantalones,MarcaE,98.32,47
+P117,Producto 117,Pantalones,MarcaE,83.47,12
+P118,Producto 118,Zapatos,MarcaA,72.18,82
+P119,Producto 119,Pantalones,MarcaE,151.59,14
+P120,Producto 120,Camisas,MarcaC,176.17,10
+P121,Producto 121,Zapatos,MarcaA,75.6,13
+P122,Producto 122,Camisas,MarcaD,180.36,39
+P123,Producto 123,Zapatos,MarcaB,93.31,36
+P124,Producto 124,Camisas,MarcaE,54.0,46
+P125,Producto 125,Camisas,MarcaC,151.77,51
+P126,Producto 126,Accesorios,MarcaA,137.27,26
+P127,Producto 127,Zapatos,MarcaC,74.56,29
+P128,Producto 128,Camisas,MarcaE,112.08,99
+P129,Producto 129,Accesorios,MarcaA,132.83,83
+P130,Producto 130,Accesorios,MarcaC,92.89,60
+P131,Producto 131,Accesorios,MarcaC,130.12,39
+P132,Producto 132,Ropa Deportiva,MarcaA,128.36,46
+P133,Producto 133,Pantalones,MarcaB,140.22,94
+P134,Producto 134,Pantalones,MarcaD,122.48,60
+P135,Producto 135,Camisas,MarcaE,156.33,75
+P136,Producto 136,Camisas,MarcaD,178.51,11
+P137,Producto 137,Camisas,MarcaD,193.8,41
+P138,Producto 138,Camisas,MarcaD,144.38,34
+P139,Producto 139,Pantalones,MarcaD,30.19,49
+P140,Producto 140,Ropa Deportiva,MarcaA,112.54,41
+P141,Producto 141,Zapatos,MarcaC,105.54,36
+P142,Producto 142,Camisas,MarcaC,127.56,45
+P143,Producto 143,Accesorios,MarcaA,122.62,94
+P144,Producto 144,Zapatos,MarcaB,123.66,96
+P145,Producto 145,Zapatos,MarcaD,181.98,90
+P146,Producto 146,Zapatos,MarcaB,75.49,73
+P147,Producto 147,Zapatos,MarcaB,51.79,51
+P148,Producto 148,Zapatos,MarcaA,28.81,86
+P149,Producto 149,Zapatos,MarcaA,105.74,72
+P150,Producto 150,Accesorios,MarcaB,111.87,48
+P151,Producto 151,Ropa Deportiva,MarcaA,75.16,73
+P152,Producto 152,Pantalones,MarcaC,60.36,68
+P153,Producto 153,Zapatos,MarcaC,81.56,71
+P154,Producto 154,Pantalones,MarcaB,170.21,98
+P155,Producto 155,Pantalones,MarcaA,161.48,57
+P156,Producto 156,Pantalones,MarcaB,156.34,18
+P157,Producto 157,Zapatos,MarcaA,145.7,97
+P158,Producto 158,Ropa Deportiva,MarcaE,184.23,60
+P159,Producto 159,Pantalones,MarcaC,184.69,29
+P160,Producto 160,Zapatos,MarcaE,78.15,79
+P161,Producto 161,Ropa Deportiva,MarcaC,24.86,42
+P162,Producto 162,Pantalones,MarcaA,72.83,95
+P163,Producto 163,Ropa Deportiva,MarcaC,27.57,25
+P164,Producto 164,Zapatos,MarcaD,97.23,19
+P165,Producto 165,Accesorios,MarcaA,133.78,63
+P166,Producto 166,Pantalones,MarcaB,189.9,80
+P167,Producto 167,Zapatos,MarcaD,72.46,96
+P168,Producto 168,Zapatos,MarcaA,152.49,20
+P169,Producto 169,Camisas,MarcaD,26.81,99
+P170,Producto 170,Camisas,MarcaA,189.21,37
+P171,Producto 171,Ropa Deportiva,MarcaE,130.72,45
+P172,Producto 172,Camisas,MarcaD,118.17,27
+P173,Producto 173,Camisas,MarcaC,50.32,43
+P174,Producto 174,Ropa Deportiva,MarcaE,114.62,63
+P175,Producto 175,Ropa Deportiva,MarcaE,106.4,48
+P176,Producto 176,Accesorios,MarcaC,84.04,56
+P177,Producto 177,Ropa Deportiva,MarcaA,175.96,17
+P178,Producto 178,Camisas,MarcaA,120.14,23
+P179,Producto 179,Accesorios,MarcaD,25.84,29
+P180,Producto 180,Accesorios,MarcaB,22.71,22
+P181,Producto 181,Camisas,MarcaC,112.07,42
+P182,Producto 182,Pantalones,MarcaE,37.39,29
+P183,Producto 183,Pantalones,MarcaE,148.14,31
+P184,Producto 184,Camisas,MarcaC,183.51,40
+P185,Producto 185,Camisas,MarcaC,120.18,76
+P186,Producto 186,Camisas,MarcaC,195.26,34
+P187,Producto 187,Ropa Deportiva,MarcaB,192.67,19
+P188,Producto 188,Zapatos,MarcaE,164.96,50
+P189,Producto 189,Camisas,MarcaB,139.27,88
+P190,Producto 190,Zapatos,MarcaD,52.11,45
+P191,Producto 191,Zapatos,MarcaE,66.23,72
+P192,Producto 192,Camisas,MarcaD,59.82,94
+P193,Producto 193,Camisas,MarcaA,167.6,57
+P194,Producto 194,Zapatos,MarcaB,84.95,89
+P195,Producto 195,Pantalones,MarcaC,64.1,69
+P196,Producto 196,Pantalones,MarcaE,156.95,38
+P197,Producto 197,Zapatos,MarcaA,185.5,11
+P198,Producto 198,Accesorios,MarcaE,187.35,69
+P199,Producto 199,Accesorios,MarcaB,185.19,94
+P200,Producto 200,Pantalones,MarcaB,40.78,61
+P201,Producto 201,Pantalones,MarcaB,151.47,80
+P202,Producto 202,Accesorios,MarcaB,90.58,16
+P203,Producto 203,Accesorios,MarcaD,167.39,57
+P204,Producto 204,Pantalones,MarcaE,70.29,21
+P205,Producto 205,Zapatos,MarcaA,62.96,51
+P206,Producto 206,Zapatos,MarcaA,39.34,91
+P207,Producto 207,Zapatos,MarcaD,108.69,73
+P208,Producto 208,Pantalones,MarcaA,67.69,19
+P209,Producto 209,Accesorios,MarcaB,142.46,28
+P210,Producto 210,Zapatos,MarcaB,49.44,11
+P211,Producto 211,Accesorios,MarcaE,126.43,15
+P212,Producto 212,Zapatos,MarcaC,65.72,97
+P213,Producto 213,Zapatos,MarcaB,26.72,94
+P214,Producto 214,Camisas,MarcaD,190.73,80
+P215,Producto 215,Accesorios,MarcaE,177.86,55
+P216,Producto 216,Pantalones,MarcaB,35.27,83
+P217,Producto 217,Ropa Deportiva,MarcaE,110.99,68
+P218,Producto 218,Camisas,MarcaD,160.6,25
+P219,Producto 219,Pantalones,MarcaB,173.36,67
+P220,Producto 220,Ropa Deportiva,MarcaA,135.86,48
+P221,Producto 221,Camisas,MarcaB,155.29,68
+P222,Producto 222,Camisas,MarcaE,132.81,63
+P223,Producto 223,Zapatos,MarcaB,52.16,96
+P224,Producto 224,Camisas,MarcaB,100.36,35
+P225,Producto 225,Zapatos,MarcaC,68.31,68
+P226,Producto 226,Ropa Deportiva,MarcaA,146.06,92
+P227,Producto 227,Accesorios,MarcaE,153.99,38
+P228,Producto 228,Pantalones,MarcaC,64.84,85
+P229,Producto 229,Camisas,MarcaE,96.12,24
+P230,Producto 230,Pantalones,MarcaD,166.92,60
+P231,Producto 231,Ropa Deportiva,MarcaC,45.71,55
+P232,Producto 232,Pantalones,MarcaC,20.54,28
+P233,Producto 233,Accesorios,MarcaB,61.82,92
+P234,Producto 234,Ropa Deportiva,MarcaE,170.98,63
+P235,Producto 235,Accesorios,MarcaC,192.98,74
+P236,Producto 236,Accesorios,MarcaC,197.88,30
+P237,Producto 237,Accesorios,MarcaC,119.4,39
+P238,Producto 238,Accesorios,MarcaC,46.23,18
+P239,Producto 239,Pantalones,MarcaB,73.39,79
+P240,Producto 240,Camisas,MarcaE,153.77,83
+P241,Producto 241,Accesorios,MarcaE,199.56,77
+P242,Producto 242,Accesorios,MarcaE,31.96,17
+P243,Producto 243,Zapatos,MarcaA,145.23,41
+P244,Producto 244,Zapatos,MarcaB,159.19,14
+P245,Producto 245,Ropa Deportiva,MarcaA,72.47,19
+P246,Producto 246,Camisas,MarcaA,25.67,22
+P247,Producto 247,Ropa Deportiva,MarcaE,153.89,21
+P248,Producto 248,Pantalones,MarcaB,76.7,65
+P249,Producto 249,Zapatos,MarcaA,97.8,90
+P250,Producto 250,Camisas,MarcaB,39.49,37
+P251,Producto 251,Ropa Deportiva,MarcaD,95.95,37
+P252,Producto 252,Pantalones,MarcaB,156.84,56
+P253,Producto 253,Camisas,MarcaB,42.55,73
+P254,Producto 254,Pantalones,MarcaE,193.21,61
+P255,Producto 255,Ropa Deportiva,MarcaB,142.78,77
+P256,Producto 256,Pantalones,MarcaA,56.97,17
+P257,Producto 257,Accesorios,MarcaD,151.48,66
+P258,Producto 258,Ropa Deportiva,MarcaD,71.61,82
+P259,Producto 259,Camisas,MarcaA,41.19,44
+P260,Producto 260,Pantalones,MarcaD,154.78,49
+P261,Producto 261,Camisas,MarcaB,121.04,27
+P262,Producto 262,Camisas,MarcaC,77.3,21
+P263,Producto 263,Pantalones,MarcaB,153.9,52
+P264,Producto 264,Accesorios,MarcaB,178.24,68
+P265,Producto 265,Accesorios,MarcaB,173.63,20
+P266,Producto 266,Pantalones,MarcaC,99.25,20
+P267,Producto 267,Ropa Deportiva,MarcaC,35.89,64
+P268,Producto 268,Accesorios,MarcaD,90.79,28
+P269,Producto 269,Pantalones,MarcaE,70.16,84
+P270,Producto 270,Camisas,MarcaD,56.91,32
+P271,Producto 271,Ropa Deportiva,MarcaB,163.88,30
+P272,Producto 272,Ropa Deportiva,MarcaA,31.75,76
+P273,Producto 273,Zapatos,MarcaC,165.3,84
+P274,Producto 274,Pantalones,MarcaC,109.77,92
+P275,Producto 275,Pantalones,MarcaA,144.78,99
+P276,Producto 276,Camisas,MarcaE,78.99,63
+P277,Producto 277,Camisas,MarcaD,81.27,65
+P278,Producto 278,Zapatos,MarcaE,52.09,80
+P279,Producto 279,Accesorios,MarcaC,54.33,59
+P280,Producto 280,Pantalones,MarcaC,99.36,34
+P281,Producto 281,Accesorios,MarcaE,25.98,70
+P282,Producto 282,Pantalones,MarcaB,145.61,49
+P283,Producto 283,Camisas,MarcaB,90.73,41
+P284,Producto 284,Zapatos,MarcaB,100.28,15
+P285,Producto 285,Ropa Deportiva,MarcaB,72.22,10
+P286,Producto 286,Ropa Deportiva,MarcaB,95.06,24
+P287,Producto 287,Camisas,MarcaB,155.29,33
+P288,Producto 288,Pantalones,MarcaC,170.01,59
+P289,Producto 289,Camisas,MarcaD,94.29,79
+P290,Producto 290,Zapatos,MarcaC,90.58,37
+P291,Producto 291,Camisas,MarcaA,26.73,78
+P292,Producto 292,Pantalones,MarcaD,81.59,80
+P293,Producto 293,Camisas,MarcaB,66.11,56
+P294,Producto 294,Pantalones,MarcaA,24.37,78
+P295,Producto 295,Ropa Deportiva,MarcaA,192.75,98
+P296,Producto 296,Accesorios,MarcaC,102.76,12
+P297,Producto 297,Camisas,MarcaE,75.37,100
+P298,Producto 298,Zapatos,MarcaC,32.18,28
+P299,Producto 299,Ropa Deportiva,MarcaB,152.52,21
+P300,Producto 300,Zapatos,MarcaA,150.13,94
+P301,Producto 301,Zapatos,MarcaD,192.2,12
+P302,Producto 302,Accesorios,MarcaC,53.77,57
+P303,Producto 303,Pantalones,MarcaB,77.75,52
+P304,Producto 304,Ropa Deportiva,MarcaA,34.09,37
+P305,Producto 305,Pantalones,MarcaE,63.33,82
+P306,Producto 306,Accesorios,MarcaD,84.95,21
+P307,Producto 307,Accesorios,MarcaB,87.62,91
+P308,Producto 308,Ropa Deportiva,MarcaB,47.37,37
+P309,Producto 309,Accesorios,MarcaE,125.01,39
+P310,Producto 310,Accesorios,MarcaE,194.09,38
+P311,Producto 311,Ropa Deportiva,MarcaD,156.09,52
+P312,Producto 312,Ropa Deportiva,MarcaD,64.28,70
+P313,Producto 313,Zapatos,MarcaC,155.21,16
+P314,Producto 314,Camisas,MarcaB,72.75,23
+P315,Producto 315,Zapatos,MarcaB,139.91,21
+P316,Producto 316,Accesorios,MarcaB,121.79,45
+P317,Producto 317,Camisas,MarcaE,55.51,83
+P318,Producto 318,Pantalones,MarcaD,85.18,40
+P319,Producto 319,Zapatos,MarcaE,154.36,64
+P320,Producto 320,Zapatos,MarcaA,159.47,28
+P321,Producto 321,Ropa Deportiva,MarcaE,112.18,63
+P322,Producto 322,Accesorios,MarcaD,99.5,23
+P323,Producto 323,Camisas,MarcaC,38.63,99
+P324,Producto 324,Ropa Deportiva,MarcaE,32.76,73
+P325,Producto 325,Camisas,MarcaD,185.37,12
+P326,Producto 326,Zapatos,MarcaA,170.81,95
+P327,Producto 327,Accesorios,MarcaB,37.55,19
+P328,Producto 328,Zapatos,MarcaB,147.82,22
+P329,Producto 329,Zapatos,MarcaB,188.44,43
+P330,Producto 330,Camisas,MarcaC,173.51,55
+P331,Producto 331,Camisas,MarcaB,113.64,17
+P332,Producto 332,Accesorios,MarcaD,80.54,50
+P333,Producto 333,Camisas,MarcaC,179.49,46
+P334,Producto 334,Camisas,MarcaD,148.27,44
+P335,Producto 335,Accesorios,MarcaD,25.81,71
+P336,Producto 336,Zapatos,MarcaC,81.33,26
+P337,Producto 337,Camisas,MarcaA,170.01,15
+P338,Producto 338,Zapatos,MarcaA,169.48,21
+P339,Producto 339,Ropa Deportiva,MarcaA,53.13,69
+P340,Producto 340,Accesorios,MarcaD,24.41,76
+P341,Producto 341,Accesorios,MarcaC,42.49,70
+P342,Producto 342,Camisas,MarcaC,51.02,65
+P343,Producto 343,Pantalones,MarcaD,146.6,90
+P344,Producto 344,Ropa Deportiva,MarcaE,29.29,27
+P345,Producto 345,Zapatos,MarcaC,87.34,75
+P346,Producto 346,Accesorios,MarcaD,107.08,21
+P347,Producto 347,Zapatos,MarcaE,92.59,77
+P348,Producto 348,Zapatos,MarcaE,150.97,72
+P349,Producto 349,Accesorios,MarcaE,97.2,88
+P350,Producto 350,Ropa Deportiva,MarcaC,157.46,71
+P351,Producto 351,Pantalones,MarcaE,135.06,19
+P352,Producto 352,Camisas,MarcaB,144.47,49
+P353,Producto 353,Zapatos,MarcaC,106.8,19
+P354,Producto 354,Accesorios,MarcaA,66.41,18
+P355,Producto 355,Zapatos,MarcaE,159.72,54
+P356,Producto 356,Pantalones,MarcaA,55.78,79
+P357,Producto 357,Accesorios,MarcaC,134.87,10
+P358,Producto 358,Accesorios,MarcaC,46.51,26
+P359,Producto 359,Ropa Deportiva,MarcaB,99.16,51
+P360,Producto 360,Zapatos,MarcaC,60.79,72
+P361,Producto 361,Ropa Deportiva,MarcaD,182.29,43
+P362,Producto 362,Accesorios,MarcaA,78.81,48
+P363,Producto 363,Accesorios,MarcaE,68.4,90
+P364,Producto 364,Pantalones,MarcaE,107.69,54
+P365,Producto 365,Accesorios,MarcaA,110.16,41
+P366,Producto 366,Accesorios,MarcaA,180.09,92
+P367,Producto 367,Ropa Deportiva,MarcaE,171.33,56
+P368,Producto 368,Accesorios,MarcaC,76.24,22
+P369,Producto 369,Ropa Deportiva,MarcaC,77.14,73
+P370,Producto 370,Pantalones,MarcaA,73.52,75
+P371,Producto 371,Ropa Deportiva,MarcaA,93.69,15
+P372,Producto 372,Accesorios,MarcaA,197.99,41
+P373,Producto 373,Camisas,MarcaE,168.28,88
+P374,Producto 374,Accesorios,MarcaE,107.72,95
+P375,Producto 375,Camisas,MarcaE,129.5,17
+P376,Producto 376,Ropa Deportiva,MarcaB,30.3,48
+P377,Producto 377,Accesorios,MarcaC,129.34,62
+P378,Producto 378,Zapatos,MarcaB,182.54,70
+P379,Producto 379,Camisas,MarcaA,145.93,15
+P380,Producto 380,Ropa Deportiva,MarcaC,128.38,60
+P381,Producto 381,Accesorios,MarcaA,140.69,61
+P382,Producto 382,Ropa Deportiva,MarcaA,75.07,37
+P383,Producto 383,Camisas,MarcaB,114.46,76
+P384,Producto 384,Ropa Deportiva,MarcaC,128.44,51
+P385,Producto 385,Camisas,MarcaC,73.91,87
+P386,Producto 386,Pantalones,MarcaC,142.82,81
+P387,Producto 387,Pantalones,MarcaD,48.7,86
+P388,Producto 388,Accesorios,MarcaC,77.43,100
+P389,Producto 389,Zapatos,MarcaC,141.03,37
+P390,Producto 390,Ropa Deportiva,MarcaC,94.14,16
+P391,Producto 391,Camisas,MarcaA,79.72,65
+P392,Producto 392,Pantalones,MarcaD,96.79,14
+P393,Producto 393,Accesorios,MarcaA,142.99,11
+P394,Producto 394,Zapatos,MarcaE,184.26,85
+P395,Producto 395,Camisas,MarcaE,55.52,13
+P396,Producto 396,Ropa Deportiva,MarcaD,189.42,10
+P397,Producto 397,Pantalones,MarcaE,60.83,95
+P398,Producto 398,Pantalones,MarcaC,89.34,45
+P399,Producto 399,Pantalones,MarcaA,143.84,15
+P400,Producto 400,Ropa Deportiva,MarcaD,71.9,20
+P401,Producto 401,Camisas,MarcaC,96.02,63
+P402,Producto 402,Pantalones,MarcaA,75.11,12
+P403,Producto 403,Pantalones,MarcaA,92.15,54
+P404,Producto 404,Camisas,MarcaB,153.55,73
+P405,Producto 405,Pantalones,MarcaC,137.84,44
+P406,Producto 406,Pantalones,MarcaA,28.49,16
+P407,Producto 407,Pantalones,MarcaC,44.23,32
+P408,Producto 408,Camisas,MarcaC,108.11,43
+P409,Producto 409,Zapatos,MarcaC,146.35,19
+P410,Producto 410,Pantalones,MarcaC,147.42,82
+P411,Producto 411,Ropa Deportiva,MarcaC,69.72,65
+P412,Producto 412,Pantalones,MarcaE,56.48,13
+P413,Producto 413,Pantalones,MarcaC,36.42,47
+P414,Producto 414,Pantalones,MarcaE,119.78,90
+P415,Producto 415,Accesorios,MarcaD,88.64,51
+P416,Producto 416,Accesorios,MarcaC,26.1,81
+P417,Producto 417,Camisas,MarcaA,182.39,40
+P418,Producto 418,Zapatos,MarcaC,135.93,95
+P419,Producto 419,Pantalones,MarcaE,81.62,13
+P420,Producto 420,Accesorios,MarcaD,189.98,68
+P421,Producto 421,Accesorios,MarcaC,62.77,62
+P422,Producto 422,Camisas,MarcaA,186.4,10
+P423,Producto 423,Ropa Deportiva,MarcaD,153.18,31
+P424,Producto 424,Accesorios,MarcaA,100.75,21
+P425,Producto 425,Camisas,MarcaA,173.46,17
+P426,Producto 426,Accesorios,MarcaC,195.89,38
+P427,Producto 427,Zapatos,MarcaC,37.43,84
+P428,Producto 428,Accesorios,MarcaB,81.21,60
+P429,Producto 429,Ropa Deportiva,MarcaC,40.62,29
+P430,Producto 430,Accesorios,MarcaC,21.6,43
+P431,Producto 431,Camisas,MarcaD,96.49,94
+P432,Producto 432,Pantalones,MarcaE,147.49,41
+P433,Producto 433,Camisas,MarcaA,36.66,42
+P434,Producto 434,Zapatos,MarcaA,139.77,40
+P435,Producto 435,Ropa Deportiva,MarcaE,162.06,88
+P436,Producto 436,Camisas,MarcaB,180.78,50
+P437,Producto 437,Camisas,MarcaC,140.06,91
+P438,Producto 438,Pantalones,MarcaB,25.04,83
+P439,Producto 439,Camisas,MarcaD,158.37,70
+P440,Producto 440,Camisas,MarcaA,68.29,75
+P441,Producto 441,Camisas,MarcaE,183.31,65
+P442,Producto 442,Camisas,MarcaD,180.7,60
+P443,Producto 443,Accesorios,MarcaD,129.2,48
+P444,Producto 444,Pantalones,MarcaA,56.17,22
+P445,Producto 445,Camisas,MarcaB,103.8,15
+P446,Producto 446,Ropa Deportiva,MarcaC,72.33,97
+P447,Producto 447,Pantalones,MarcaD,34.46,56
+P448,Producto 448,Ropa Deportiva,MarcaB,75.23,15
+P449,Producto 449,Camisas,MarcaD,146.04,40
+P450,Producto 450,Pantalones,MarcaD,61.92,22
+P451,Producto 451,Zapatos,MarcaB,60.8,14
+P452,Producto 452,Zapatos,MarcaD,137.54,65
+P453,Producto 453,Pantalones,MarcaE,126.53,99
+P454,Producto 454,Ropa Deportiva,MarcaD,189.37,15
+P455,Producto 455,Zapatos,MarcaE,111.45,15
+P456,Producto 456,Camisas,MarcaB,78.75,83
+P457,Producto 457,Accesorios,MarcaD,105.66,15
+P458,Producto 458,Accesorios,MarcaE,129.76,50
+P459,Producto 459,Camisas,MarcaD,85.03,13
+P460,Producto 460,Camisas,MarcaA,172.25,38
+P461,Producto 461,Ropa Deportiva,MarcaB,169.97,94
+P462,Producto 462,Pantalones,MarcaC,59.5,14
+P463,Producto 463,Zapatos,MarcaA,48.01,14
+P464,Producto 464,Zapatos,MarcaE,82.9,94
+P465,Producto 465,Zapatos,MarcaA,133.96,14
+P466,Producto 466,Camisas,MarcaA,52.87,72
+P467,Producto 467,Zapatos,MarcaC,134.42,36
+P468,Producto 468,Pantalones,MarcaA,172.49,12
+P469,Producto 469,Accesorios,MarcaE,183.15,12
+P470,Producto 470,Zapatos,MarcaA,97.72,94
+P471,Producto 471,Pantalones,MarcaD,186.06,12
+P472,Producto 472,Pantalones,MarcaD,80.15,99
+P473,Producto 473,Pantalones,MarcaA,51.27,10
+P474,Producto 474,Pantalones,MarcaA,20.45,85
+P475,Producto 475,Accesorios,MarcaD,57.64,70
+P476,Producto 476,Camisas,MarcaC,40.0,81
+P477,Producto 477,Zapatos,MarcaE,120.26,11
+P478,Producto 478,Pantalones,MarcaA,69.8,87
+P479,Producto 479,Camisas,MarcaC,50.55,43
+P480,Producto 480,Accesorios,MarcaA,122.81,75
+P481,Producto 481,Pantalones,MarcaB,198.43,37
+P482,Producto 482,Ropa Deportiva,MarcaB,125.96,38
+P483,Producto 483,Zapatos,MarcaC,178.91,57
+P484,Producto 484,Ropa Deportiva,MarcaE,128.57,44
+P485,Producto 485,Zapatos,MarcaD,92.9,42
+P486,Producto 486,Camisas,MarcaC,152.05,37
+P487,Producto 487,Ropa Deportiva,MarcaA,116.79,100
+P488,Producto 488,Ropa Deportiva,MarcaC,143.77,98
+P489,Producto 489,Ropa Deportiva,MarcaD,109.9,43
+P490,Producto 490,Zapatos,MarcaD,97.03,30
+P491,Producto 491,Ropa Deportiva,MarcaB,144.22,26
+P492,Producto 492,Camisas,MarcaE,144.94,76
+P493,Producto 493,Ropa Deportiva,MarcaE,196.19,91
+P494,Producto 494,Accesorios,MarcaD,134.09,26
+P495,Producto 495,Ropa Deportiva,MarcaD,74.77,50
+P496,Producto 496,Camisas,MarcaA,138.08,40
+P497,Producto 497,Zapatos,MarcaD,154.58,17
+P498,Producto 498,Pantalones,MarcaE,75.59,90
+P499,Producto 499,Ropa Deportiva,MarcaB,57.53,17
+P500,Producto 500,Camisas,MarcaC,34.33,10
